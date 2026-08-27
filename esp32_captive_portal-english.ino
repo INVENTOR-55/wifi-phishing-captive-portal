@@ -72,8 +72,7 @@ std::vector<String> ssidList = {
 
 std::vector<String> passList = {
   "",
-  "12345678",
-  "m0gu145."
+  "12345678"
 };
 
 #define EEPROM_SIZE 2048
