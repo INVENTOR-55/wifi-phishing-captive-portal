@@ -9,7 +9,7 @@ This project turns an ESP32 into a Rogue Access Point. Upon startup, it broadcas
 
 | Captive Portal (Google) | Admin Dashboard |
 | :---: | :---: |
-| ![Google Login Portal](images/00.jpg) | ![Management Panel](images/01.jpg) |
+| ![Google Login Portal](images/00.png) | ![Management Panel](images/01.png) |
 
 ## Features
 
